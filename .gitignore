@@ -2,3 +2,9 @@
 !.gitignore
 !*.sql
 !README.md
+!SQL_introduction/
+!SQL_more_queries/
+SQL_introduction/*
+!SQL_introduction/*.sql
+SQL_more_queries/*
+!SQL_more_queries/*.sql
